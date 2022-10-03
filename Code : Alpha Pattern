@@ -1,3 +1,4 @@
+/*
 Print the following pattern for the given N number of rows.
 Pattern for N = 3
  A
@@ -12,7 +13,7 @@ Constraints
 Sample Input 1:
 7
 Sample Output 1:
-A
+
 BB
 CCC
 DDDD
@@ -28,6 +29,7 @@ CCC
 DDDD
 EEEEE
 FFFFFF
+*/
 
 import java.util.Scanner;
 public class Solution {
