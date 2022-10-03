@@ -1,4 +1,4 @@
-Print the following pattern for the given N number of rows.
+/*Print the following pattern for the given N number of rows.
 Pattern for N = 4
 *
 **
@@ -28,6 +28,7 @@ Sample Output 2:
 ****
 *****
 ******
+*/
 
 import java.util.Scanner;
 public class Solution {
