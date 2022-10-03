@@ -1,4 +1,4 @@
-Print the following pattern for the given number of rows.
+/*Print the following pattern for the given number of rows.
 Pattern for N = 5
 E
 DE
@@ -32,6 +32,7 @@ DEFG
 CDEFG
 BCDEFG
 ABCDEFG
+*/
 
 import java.util.Scanner;
 public class Solution {
